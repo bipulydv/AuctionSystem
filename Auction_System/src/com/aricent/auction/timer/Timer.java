@@ -1,4 +1,4 @@
-package com.aricent.auction.timer;
+package 
 
 import java.sql.Connection;
 import java.sql.ResultSet;
