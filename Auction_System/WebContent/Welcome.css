@@ -1,0 +1,60 @@
+.admin{
+background: url(adminWelcome.jpg) fixed;
+  background-size: cover;
+  vertical-align: middle;
+}
+
+.heading{
+	
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+}
+
+.user{
+background: url(UserWelcome.jpg) fixed;
+  background-size: cover;
+  vertical-align: middle;
+}
+@CHARSET "ISO-8859-1";
+
+
+.title{
+	font-style: oblique;
+	font-size: 50px;
+    color: #000000;
+    font-size: 2.8em;
+    font-family: "Ubuntu Condensed";
+    margin-bottom: 10px;
+    
+}
+
+.welcome{
+background: url(laptopbg2.jpg) fixed;
+ background-size: cover;
+  vertical-align: middle;
+ 
+}
+
+.header {
+	
+    display: flex;
+    flex-direction: row;
+    background: green;
+    box-shadow: 0px 5px 8px black;
+    padding: 2px;
+}
+.category{
+    color: #000000;
+    font-size: 2.0em;
+    font-family: "Ubuntu Condensed";
+    margin-bottom: 10px;
+}
+
+.product{
+	background-color: #d6b1d6;
+	
+}
+
+.buttons{
+	position:absolute; top:0; right:0;
+}

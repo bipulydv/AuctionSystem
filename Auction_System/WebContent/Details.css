@@ -1,0 +1,46 @@
+
+@CHARSET "ISO-8859-1";
+
+.laptop_background{
+background: url(laptopbg2.jpg) fixed;
+ background-size: cover;
+  vertical-align: middle;
+ 
+}
+.title{
+	font-style: oblique;
+    color: #800080;
+    font-size: 2.5em;
+    font-family: "Ubuntu Condensed";
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+
+.details{
+	
+	color: white;
+	font-family: "Ubuntu Condensed";
+	font-style:bold;
+}
+
+.mobile_background{
+background: url(mobilebg.jpg) fixed;
+ background-size: cover;
+  vertical-align: middle;
+ 
+}
+
+.bids{
+	background: url(myBids.jpg) fixed;
+ 	background-size: cover;
+ 	color: #80ffff;
+    font-size: 1.5em;
+    font-family: "Ubuntu Condensed";
+}
+
+.back_button{
+	 position:absolute;
+     top:0;
+     right:0;
+}
